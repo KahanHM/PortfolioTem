@@ -22,14 +22,14 @@ function Navbar() {
       <div className="home">
         <div className="profile_name">
           Kahan HM
-          <div className="contact_info">
+          {/* <div className="contact_info">
             <img src={envelope} alt="email" />
             kahanahamed42@gmail.com
           </div>
           <div className="contact_info">
             <img src={phone} alt="phone" />
             +94 755824166
-          </div>
+          </div> */}
         </div>
         <div className="topdiv">
           <section id="home">
